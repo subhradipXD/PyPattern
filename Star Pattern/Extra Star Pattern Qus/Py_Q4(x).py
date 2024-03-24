@@ -1,9 +1,9 @@
-""" 4. Write scripts to print each of the following output pattern.
-The number of rows to be printed is to be 
-accepted as user input. """
-# Pattern x
-
-
+# Enter the number of rows: 5
+# * * * * *
+#   * * *
+#     *
+#   * * *
+# * * * * *
 row = int(input("Enter the number of rows: "))
 
 for i in range(row):

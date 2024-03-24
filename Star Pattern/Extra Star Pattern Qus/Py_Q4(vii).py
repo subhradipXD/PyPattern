@@ -1,4 +1,7 @@
-# Pattern vii
+# Enter the number of rows: 5
+# * * * * *
+#   * * *
+#     *
 
 
 row = int(input("Enter the number of rows: "))

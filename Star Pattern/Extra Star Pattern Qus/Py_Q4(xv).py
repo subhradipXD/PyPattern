@@ -1,6 +1,9 @@
-# Pattern xv
-
-
+# Enter the number of rows: 5
+# * * *   *
+#   * * * *
+# * * * * *
+# * * * *
+# *   * * *
 row = int(input("Enter the number of rows: "))
 n=(row-1)//2
 for i in range(row):
